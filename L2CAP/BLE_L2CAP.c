@@ -9,6 +9,7 @@
  
  /*includes*/
  #include "BLE_L2CAP_public.h"
+ #include "BLE_L2CAP_private.h"
  #include "common/error.h"
  
  /* L2CAP Signalling (send commands) */
